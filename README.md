@@ -8,3 +8,8 @@ I am not the creator of this mod, Eriss is, and the source code was entirely wri
 I encourage to make patches if you have experience in coding for this mod. I will gladly add it to the mod, or advertise it on the description of the main mod, if you wish to publish it yourself.
 
 I don't know much on how to use GitHub and it warned me of doomsday if I publish this repository. So uhh, please don't hack me, thank you :)
+
+# 1.2 Update
+Hi, Kataris here, also new to github and stuff. I uploaded 2 new .zips for Rimworld 1.2! I've included the source for both.
+
+I do recommend checking out ..\mods\Avali\1.2\Defs\ThingDefs_Races\Race_Avali.xml and opening it with a text editor. Be sure to look at any comments noted by me, as Rimworld Alien Races 2.0 1.2 tends to really get upset if you leave stuff in there that depends on mods you aren't using. Adjust those as you need!
